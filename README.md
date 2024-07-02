@@ -6,12 +6,6 @@
   <img align="right" height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcosF0002&layout=compact&langs_count=16&theme=tokyonight"/>
 </div>
 
-<div align="center">
-        <h3>Tentando me especializar em Dev Web 😁</h1>
-        <img align="center" height="30" width="40" alt="js.icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg">
-        <img align="center" height="30" width="40" alt="php.icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg">
-  
-</div>  
-  
+ 
 
 ![Snake animation](https://github.com/MarcosF0002/MarcosF0002/blob/output/github-contribution-grid-snake.svg)
